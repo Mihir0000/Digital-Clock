@@ -1,0 +1,13 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+
+#clock {
+    font-family: "Libre Baskerville", serif;
+    font-size: 5rem;
+    color: #32cd32;
+}
